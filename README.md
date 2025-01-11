@@ -41,11 +41,6 @@ Image Processing Fundamentals
 
 https://github.com/user-attachments/assets/c19888fb-e3e5-4655-8b92-b0130a0aeb33
 
-Edge Detection & Object Detection
-
-Deep Learning for Computer Vision
-
-Real-Time Video Processing
 
 📄 License
 
