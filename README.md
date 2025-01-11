@@ -26,21 +26,11 @@ NumPy
 
 Matplotlib
 
-TensorFlow/PyTorch (as needed by projects)
-📂 Project Structure
-![image](https://github.com/user-attachments/assets/c8c148e3-e356-4055-ac65-6e87e59371fc)
-
 📷 Showcase Your Work
 
 Include screenshots of your project outputs.
 
 Provide a demo video link if available.
-
-Add a descriptive README for your project.
-
-🧠 Key Skills Learned
-
-Image Processing Fundamentals
 
 https://github.com/user-attachments/assets/c19888fb-e3e5-4655-8b92-b0130a0aeb33
 
