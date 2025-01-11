@@ -1,4 +1,7 @@
 🚀 VisionForge: Open-Source Computer Vision Projects
+
+
+
 📚 Repository Overview
 
 Welcome to VisionForge – a collaborative open-source repository dedicated to Computer Vision (CV) projects. This repository serves as a hub for learning, contributing, and sharing innovative CV-based solutions, including edge detection, object recognition, image segmentation, and more.
